@@ -10,9 +10,9 @@
   border-color: #ffffff;
 }
 #navbar-search {
-  background-color: #123263;
-  border: 1px solid #123263;
-  color: #ffffff;
+  background-color: #ffffff;
+  border: 1px solid #5b95cf;
+  color: #184680;
   height: 35px;
 }
 .navbar-default .navbar-nav > li > a,
@@ -42,7 +42,7 @@
   color: #184680;
 }
 .navbar .navbar-search-icon {
-  color: #ffffff;
+  color: #184680;
 }
 .footer-powered {
   font-size: 90% !important;
