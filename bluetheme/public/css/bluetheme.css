@@ -346,3 +346,18 @@ h6.uppercase,
 .non-profit-blue {
   background: url(/assets/bluetheme/images/charity.png);
 }
+.tools-blue {
+  background: url(/assets/bluetheme/images/tools.png);
+}
+.settings-blue {
+  background: url(/assets/bluetheme/images/settings.png);
+}
+.customize-blue {
+  background: url(/assets/bluetheme/images/customization.png);
+}
+.contacts-blue {
+  background: url(/assets/bluetheme/images/contacts.png);
+}
+.leaderboard-blue {
+  background: url(/assets/bluetheme/images/leaderboard.png);
+}
