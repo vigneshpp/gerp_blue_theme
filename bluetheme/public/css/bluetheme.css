@@ -5,13 +5,6 @@
 .app-logo {
   width: 125px !important;
 } 
-div.border.module-box {
-  background-color: #E3E7F1;
-}
-
-div.border.section-box {
-   background-color: #EDEDF4;
-}
 .navbar-default {
   background-color: #ffffff;
   border-color: #ffffff;
@@ -85,7 +78,7 @@ small,
 .section-box {
   border: 1px solid #eaeaea;
   border-radius: 0px !important;
-  background-color: #ffffff;
+  background-color: #EDEDF4;
 }
 .section-box h4 {
   color: #3776d8;
@@ -111,6 +104,7 @@ h4,
 }
 .module-box {
   border: 1px solid #eaeaea !important;
+  background-color: #E3E7F1;
   border-radius: 0px !important;
   padding: 8px 15px;
 }
