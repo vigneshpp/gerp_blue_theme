@@ -4,6 +4,13 @@
 }
 .app-logo {
   width: 125px !important;
+} 
+div.border.module-box {
+  background-color: #E3E7F1;
+}
+
+div.border.section-box {
+   background-color: #EDEDF4;
 }
 .navbar-default {
   background-color: #ffffff;
