@@ -33,4 +33,4 @@ If the installation of bluetheme doesn't work, or any error pops up, try 'get-ap
 
 #### License
 
-GNU General Public License 
+GNU General Public License
